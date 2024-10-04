@@ -1,1 +1,2 @@
 Jestem Jan Kowalski i mam esse
+A to jest info z lokalnego repo
